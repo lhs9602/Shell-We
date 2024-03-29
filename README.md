@@ -9,13 +9,13 @@ ShellWe는 물품 및 재능 교환 웹 애플레케이션입니다.
 <tbody>
     <tr>
         <td>
-            <a href="https://github.com/DongwooJoo">
-                <img src="https://github.com/DongwooJoo.png" width="70px" />
+            <a href="https://github.com/lhs9602">
+                <img src="https://github.com/lhs9602.png" width="70px" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/lhs9602">
-                <img src="https://github.com/lhs9602.png" width="70px" />
+            <a href="https://github.com/DongwooJoo">
+                <img src="https://github.com/DongwooJoo.png" width="70px" />
             </a>
         </td>
         <td>
@@ -40,10 +40,10 @@ ShellWe는 물품 및 재능 교환 웹 애플레케이션입니다.
         </td>
     </tr>
     <tr>
-        <td><p align="center">주동우<br>[팀장/FE]</p></td>
-        <td><p align="center">이호섭<br>[FE]</p></td>
+        <td><p align="center">이호섭<br>[부팀장/FE]</p></td>
+        <td><p align="center">주동우<br>[FE]</p></td>
         <td><p align="center">정찬영<br>[FE]</p></td>
-        <td><p align="center">이태섭<br>[부팀장/BE]</p></td>
+        <td><p align="center">이태섭<br>[팀장/BE]</p></td>
         <td><p align="center">김영준<br>[BE]</p></td>
         <td><p align="center">황성욱<br>[BE]</p></td>
     </tr>
